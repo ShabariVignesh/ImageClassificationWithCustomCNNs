@@ -1,4 +1,4 @@
-# ImageClassificationWithCustomCNNs
+# image-classification-custom-cnn-googlenet
 
 This repository contains a Jupyter Notebook for classifying images of animals (cats, dogs, and foxes) using two different approaches:
 1. A custom Convolutional Neural Network (CNN) that is trained from scratch.
